@@ -1,0 +1,13 @@
+img {
+    height: auto;
+    width: 1900px;
+}
+
+.parts {
+    color: rgb(223, 101, 2);
+}
+
+.sauce {
+    color: rgb(255, 255, 255, 1);
+    background-color: rgb(223, 101, 2, .8);
+}
